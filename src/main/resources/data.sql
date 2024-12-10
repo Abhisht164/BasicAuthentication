@@ -1,0 +1,21 @@
+INSERT INTO product (name, description, price) VALUES ('Laptop', '15-inch display with Intel i7 processor', 1200.50);
+INSERT INTO product (name, description, price) VALUES ('Smartphone', '128GB storage, 6.5-inch OLED screen', 799.99);
+INSERT INTO product (name, description, price) VALUES ('Headphones', 'Noise-cancelling over-ear headphones', 199.99);
+INSERT INTO product (name, description, price) VALUES ('Gaming Chair', 'Ergonomic design with lumbar support', 249.99);
+INSERT INTO product (name, description, price) VALUES ('Monitor', '27-inch 4K UHD display with HDR', 349.95);
+INSERT INTO product (name, description, price) VALUES ('Mechanical Keyboard', 'RGB backlighting, Cherry MX switches', 129.99);
+INSERT INTO product (name, description, price) VALUES ('Wireless Mouse', 'Bluetooth mouse with adjustable DPI', 49.99);
+INSERT INTO product (name, description, price) VALUES ('External SSD', '1TB USB-C portable SSD', 179.99);
+INSERT INTO product (name, description, price) VALUES ('Smartwatch', 'Fitness tracking with heart rate monitor', 299.00);
+INSERT INTO product (name, description, price) VALUES ('Tablet', '10-inch tablet with stylus support', 399.99);
+
+INSERT INTO product_user (name, email, password) VALUES ('Alice Johnson', 'alice.johnson@example.com', 'password123');
+INSERT INTO product_user (name, email, password) VALUES ('Bob Smith', 'bob.smith@example.com', 'securepass');
+INSERT INTO product_user (name, email, password) VALUES ('Charlie Brown', 'charlie.brown@example.com', 'abc12345');
+INSERT INTO product_user (name, email, password) VALUES ('Diana Prince', 'diana.prince@example.com', 'wonderwoman');
+INSERT INTO product_user (name, email, password) VALUES ('Edward Cullen', 'edward.cullen@example.com', 'twilight99');
+INSERT INTO product_user (name, email, password) VALUES ('Fiona Apple', 'fiona.apple@example.com', 'music1234');
+INSERT INTO product_user (name, email, password) VALUES ('George Lucas', 'george.lucas@example.com', 'starwarsfan');
+INSERT INTO product_user (name, email, password) VALUES ('Helen Mirren', 'helen.mirren@example.com', 'actress456');
+INSERT INTO product_user (name, email, password) VALUES ('Ian Fleming', 'ian.fleming@example.com', 'bond007');
+INSERT INTO product_user (name, email, password) VALUES ('Jessica Alba', 'jessica.alba@example.com', 'hollywoodstar');
